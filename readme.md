@@ -1,7 +1,7 @@
 # 4360-banking
 
 Get Started    
-    - Run  python index.py
+    - Run `python index.py`
     - You will not need any third party libraries
 
 User Interface
